@@ -1,0 +1,4 @@
+What is the Google RankBrain?
+	- That Google rank brain is an artificial program that Google has created in order to scan the entire web of useful information, useful information based on the keywords that anybody's typing into Google.
+	
+How do we affect RankBrain?

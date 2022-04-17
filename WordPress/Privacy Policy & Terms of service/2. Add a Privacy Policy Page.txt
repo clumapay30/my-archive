@@ -1,0 +1,19 @@
+3 options to create a privacy policy.
+
+First option:
+	Wordpress : Settings / Privacy
+	
+2nd option:
+	- https://app.termsfeed.com/wizard/privacy-policy
+		: Follow the steps
+
+but this option is the easiest one
+	- Create a new page
+	- Privacy Policy for Your Website
+	- You you have successfully created a privacy page go to settings/privacy 
+		: Change your privacy policy to your newly created page.
+		: Then go to appearance then menus
+			: Create a new menus
+				- name it Footer
+				- save
+				Note: you can design your own privacy policy.

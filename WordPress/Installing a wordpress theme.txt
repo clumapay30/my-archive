@@ -1,0 +1,2 @@
+required theme for this course:
+	: oceanwp

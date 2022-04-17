@@ -1,0 +1,56 @@
+WooCommerce/Settings
+
+General
+	- Fill out all the information
+	- NOTE: this is very important because all the shipment will be calculate from here.
+	Default customer location: Geolocate
+	Enable taxes: check
+	Enable coupons: check
+	: Save changes
+	
+------------------------
+Products
+
+Products / General
+	Shop page: Shop
+	
+	Measurements
+		weight unit : research what unit this specific location using.
+		Dimension unit : same
+	Reviews:
+			- Enable product reviews
+			- Show "verfied owner" label on customer reviews
+			- Reviews can only be left by "verified owners"
+		Product ratings:
+			- Enable star rating on reviews
+	Other options that are not included here should leave by default
+	: Save Changes
+	
+Products / Inventory
+	: notification recipent(s): your@email.com
+	: Other options that are not included here should leave by default
+	: save
+	
+Product / Downloadable products
+	: Downloads require login
+	: Other options that are not included here should leave by default
+	: save
+------------------------
+	
+Tax, Shipping & Payments will be on another txt
+
+------------------------
+
+Account & Privacy
+	Guest checkout : Allow customer to log into an existing account during checkout
+	Account creationg : Allow customer to create an account during checkout
+	: Other options that are not included here should leave by default
+	: save
+	
+------------------------
+
+Emails
+
+Advance
+
+Save changes

@@ -1,0 +1,14 @@
+Go to the dashboard and go to POST
+	- click to the post you have created
+	- scroll down and may notice "Yoast SEO"
+		- Snippet Preview
+		- Edit snippet
+			: you can add meta description
+			: edit the slug
+			: once your done
+		- Readability analysis 
+			: check if there is a problem
+			: analyze the problem and solve it.
+		- Focus Keyphrase
+			: same above
+		NOTE: makse sure that its all green

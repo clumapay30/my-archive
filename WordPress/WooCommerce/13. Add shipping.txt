@@ -1,0 +1,67 @@
+WooCOmmerce / Settings / Shipping
+
+NOTE: By Default you already have a shipping zone
+
+
+Add shipping zone
+	zone name: Europe
+	zone regions: Cyprus, Sweden, Norway. Its up to you how many you want to add.
+	shipping methods: Flat rate (Fix rate),
+				Flat rate settings:
+					Method title: Shipping
+					Tax Status: none
+					Cost: 3 
+							or [fee percent="10"] = means 10% shipping cost of the total price
+				
+NOTE: you can add multiple shipping zoe
+	Recommended: Add flat rate then add free shipping for minimum order
+	
+-----------
+Shipping options
+	Calculations : Use "Hide shipping cost until an address is entered" instead above.
+	Shipping destination: Default to customer shipping address
+	: Save
+	
+----------
+Shipping classes
+	Not very interesting. This is for heavy product
+	
+----------
+	Add new plugin: flexible shipping
+		- WooCommerce Table Rate Shipping by JEM
+		- By Jem Plugins
+		- 20k+ Active installation
+		
+		: once its install go to shipping / shipping zones / add shipping methods
+			: choose table rate
+			: edit
+			: add new
+				- Enable this shipping method
+				Method title: UPS
+				Handling fee: leave as blank
+				Tax stats: Not taxable
+				Table rates:
+					Condition - Weight (kg)
+					Min Value - 00
+					Max value - 1.99
+					Shipping rate - 3
+					
+					add new one
+					
+					min value - 2
+					max value - 4.99
+					shipping rate : 5
+					
+					add new one
+					
+					min value - 5
+					max value - 9999999
+					shipping rate : 10
+					
+GOOD TO GO!
+
+NOTE: If you are dropshipping
+go to woocommerce/settings/shipping
+	hover your mouse to Locations not covered by your other zones
+		: click "Manage shipping methods"
+		: then use Table rate from plugin we installed

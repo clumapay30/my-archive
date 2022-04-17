@@ -1,0 +1,16 @@
+Black Hat SEO 
+	: What is Black hat SEO?
+		- Basically when people are trying to trick Google to get better ranking for their website.
+			ex: Your'e stuffing a lot of keywords.
+		- Spamming BLogs with Backlinks
+		- Steal and repost others articles
+		- Google can ban your website
+
+White Had SEO
+	: What is White hat SEO?
+		- Creating high quality information
+		- Using relevant keywords for humans
+		- Guest posting (Networking)
+		- Answering posts wit hvalue on blogs
+		
+		

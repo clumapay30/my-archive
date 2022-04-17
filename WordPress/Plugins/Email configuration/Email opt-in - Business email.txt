@@ -1,0 +1,21 @@
+Build your email list
+Business email
+Simple Mail Transfer Protocol
+
+For newsletter, latest content etc.
+Most effective & Free marketing
+
+Create Business Email
+	- Go to bluehost
+	- Email & Office
+		- Basic Email
+			: cPanel or domain.com/cpanel
+				- If you dont know your user and password. Go to the email you receive when you sign up for their hosting services
+			: when you're login
+				- Go to the email section
+					- Email Accounts
+						: Create
+							contact@domain.com/cpanel
+							100mb
+						: check email
+						: roundcube / Horde / Squirrelmail

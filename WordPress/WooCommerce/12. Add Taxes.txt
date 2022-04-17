@@ -1,0 +1,33 @@
+WooCommerce / Settings / Taxes
+	
+Prices entered with tax: No
+Calculate tax based on: Customer shipping address
+Shipping tax class: Shipping tax class based on cart items
+
+Additional tax classes
+	: add "Digital Products"
+		- Import the CSV on digital product rate tax option
+		NOTE: name should be exactly "Digital Product"
+		NOTE: if you are from US you are probably using different tax value
+		NOTE: Search for your country tax value
+		: https://www.taxjar.com/
+
+Rounding: Recommended
+Other options shall leave by default
+save
+
+--------------
+Standard rates : 19%
+
+Insert row 
+	add 19% rate and others as default
+	tax name: Tax
+	
+Reduced rate
+	insert one
+	Rate %: 5
+	Tax anme: Books
+	
+:::
+NOTE: Standard rate and reduced rate is something you are selling to customers
+	  Zero rate means you are selling products to a company

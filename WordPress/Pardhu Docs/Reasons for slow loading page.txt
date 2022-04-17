@@ -1,0 +1,4 @@
+1. Slow connection
+2. Caching
+3. Page size
+4. More technical reason

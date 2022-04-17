@@ -1,0 +1,29 @@
+Security Plugin
+	: Avoid cyberattacks
+	: Protect website data
+		- Personal information
+		- Business information
+		- or any sensitive information
+	: Firewall
+	: Block IPs
+		- Any attempt to access your website will be block on any access on your website anymore.
+	: Automated Scans
+	
+	
+Plugin: wordfence
+		: Wordfence Security - Firewall & Malware Scans
+		: sign up with your email
+		: no newsletter
+		
+Rather than showing to the settings it will show up on the dashboard
+	- Just click the wordfence itself
+	- (To make your site as secure as possible...) Click "Click here to configure" 
+	- Go to "All Options"
+		: Go to firewall options
+			- "Brute Force Protection"
+				: Login failures 
+					- set this to 5
+				: Forgot password attempts 
+					- set this to 5
+				: save
+				

@@ -1,0 +1,37 @@
+To test the speed of your website: https://tools.pingdom.com/
+
+Visitors & SEO
+	
+How do you speed up your website?
+	- Caching
+	
+Extra homepage checks
+Content Delivery Network Support - CDN support
+Preload
+
+Plugin: wp super cache
+	- WP super cahce
+	- 2+ million active installation
+	- activate
+	- Go to settings / WP super cache
+		: click on "Caching On (Recommended)
+		: Update Status
+	- Go to advanced
+		- Miscellaneous
+			: Check "Don't cache pages for known users. (recommended)"
+			: check "Compress pages so they're served more quickly to visitors. (recommended)"
+		- Advance
+			: check "Extra homepage checks. (very occasionally stops homepage caching)"
+		- Update Status
+	- Got to CDN
+		- Check "Enable CDN Support"
+		- Sav changes
+	- Got to Contents
+		- Delete cache
+	- Got Preload	
+		- Refresh preloaded chache files every 1440
+		- Check "preload mode"
+		- check "preload tags, categories..."
+		- Save settings
+	
+		

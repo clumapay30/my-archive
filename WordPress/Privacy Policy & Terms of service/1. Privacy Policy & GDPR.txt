@@ -1,0 +1,29 @@
+GDPR or General Data Protection Regulations
+
+- Mandatory Transparency
+- How you use Collect, Use & Share personal data
+- EU Residents
+- Penalty: 4% Annual Income or 20m Euro
+
+How do we make sure that our website has a great privacy policy?
+	- Create Privacy Policy
+	
+What is Privacy Policy?
+	- Is where you "Disclose information"
+	- We were getting it from:
+		: Cookies
+		: Comments
+		: Subscriptions
+		: Registration
+		: etc...
+	- Google Analytics & Email List
+	- Required by Law
+	
+How do we create this Privacy Policy?
+	- Privacy Policy Generator
+		: Include
+			- Details About Data Collection
+			- Explain why
+				: Google AdSense -> Targeted Ads
+				: Opting Out - If & How
+			- Contact for questions & concerns

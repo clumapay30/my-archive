@@ -1,0 +1,22 @@
+1. Backup your site
+2. Update WP core, plugins and themes
+3. Generate a strong password
+4. Create users wiht non-admin roles
+5. Delete spam comments
+6. Always logout when finished
+
+- Install Defender
+- Action security recommendations
+- Run a site scan
+- Enable firewall
+- Activate Two-Factor Authentication
+- Mask login URL
+
+----------------
+
+Updates: 
+
+Backup Plugin: UpdraftPlus Backups
+Defender Plugin: Defender	
+	- By WPMU DEV
+Security Recommendation: 

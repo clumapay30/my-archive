@@ -1,0 +1,23 @@
+Plugins: WPForms Lite
+	- On the dashboard got to WPForms and then All forms
+		: Add new
+			- Form name : Contact Form
+			- Select template: Simple Contact Form
+			- Double-check all the settings. Change if needed
+			- click embed
+				: copy the embed code
+	- go to pages
+		: contact pages
+			- shortcode
+				: paste the embed code here
+				
+	NOTE: to receive an email from the customer
+		- go to WPForms lite
+		- Settings / Notification
+		- enter your email on the "Send to email address"
+		-  if you leave it as {admin_email} it's gonna send the message to the admin email you set up.
+		
+		Set up your admin email
+		- back in the dashboard and settings and then General.
+		- Email address: setup your admin email address
+		- Save

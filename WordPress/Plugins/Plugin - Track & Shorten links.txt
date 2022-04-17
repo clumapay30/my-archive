@@ -1,0 +1,25 @@
+Reason why do this
+1. You want to track your links in order to know what works
+	: example - Bitly
+		: but many spammers uses this and some people dont want to click if you use this.
+		
+Plugin: pretty links
+	- Shortlinks by pretty links - Best wordpress link tracking plugin
+	- 200k active installation
+	
+Configure:
+	- Pretty links has its own section in the dashboard
+	- Create one
+		: Add pretty link
+			: Redirection - 307(Temporary)
+			: Target URL - go to the url you want to target
+			: Title - Digital marketing branding TY video
+			: Notes - ___
+			
+		: Advance option
+			: Groupd - None
+			: No Follow - Check
+			: parameter forwarding - 
+			: Tracking - Check
+			
+		: Create / Save

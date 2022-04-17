@@ -1,0 +1,28 @@
+Avoid spam when the website gets bigger.
+	
+- Support Engagement
+- Stay out of trouble
+
+3 important things when it comes to blocking spam
+	- No visitor action
+	- Minimal database impact
+	- Effectively automated
+	
+
+Plugin: Akismet Anti-Spam
+	- by automattic
+	
+Setup
+	- Get your API key
+		: Activate Akismet
+			- Get started with free
+			- Create account
+			- activate this site
+	- Settings of Akismet anti-spam
+		: Strictness
+			- In the beginning choosse "Always put spam in the spam folder for review.
+			- when your website grow you can check the silently discard...
+		: For Privacy
+			- Chcek the display a privacy notice under your comment forms.
+	
+	NOTE: if you want to check the spam go to comments and check the spam folder

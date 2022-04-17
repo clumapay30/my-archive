@@ -1,0 +1,36 @@
+Search Engine Optimization - SEO
+Get Traffic & Build Brand
+
+3 Important things for SEO
+	1. Sitemap
+	2. Improve content
+	3. Toolset
+	
+Plugin: YOAST
+	- Yoast SEO
+	- 5+ Million active installation
+	
+Configure:
+	- go to Y at the top bar and go to configuration wizard
+	: Environment
+		- Option A: My site is live and ready to be indexed
+	: Site Type
+		- A corporation
+	: Company or person
+		- Company
+			: name of the the company
+	: Social Profiles
+		- Important to set this up
+	: Search engine visibility
+		- yes all
+	: Multiple authors
+		- No
+	: Google search console
+		- get google autorization code
+		- copy the code 
+		- paste it to authorization code on wordpress
+	: Title settings
+		- website name is going to be what is showing on google.
+		- title separator would be |
+	: Up to you if you want newsletter
+	: success!

@@ -1,0 +1,33 @@
+Products/Add new
+
+Title Name: Flashing dog collar
+	
+OceanWP Settings:
+YoastSEO:
+
+Product Data: Variable Product
+	- Inventory : 
+	- Shipping	:
+	- Linked Products  :
+	- Attributes	   : custom product attributes - click add
+							Name - Color
+							Values(s) - Red | Green
+							Visible on the product page = check
+							used for variations = check
+						add custom product attribute again
+							Name - Size
+							Values(s) - Small | Medium | Large
+							Visible on the product page = check
+							used for variations = check
+						- Save
+	- Variations	   : Add Variation = Create variations from all attributes = Go 
+						: Expand all of them
+							- Add product images
+							- add different SKU
+							ex: CLL1001, CLL1002, CLL1003
+	- Advanced	:
+	- Get More options :
+	
+	
+Once all done go to the sidebar and add product images
+publish

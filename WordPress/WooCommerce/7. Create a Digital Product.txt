@@ -1,0 +1,8 @@
+Add new product
+	: Title - E-Book: Master ....
+	: Add description
+	
+	Product data - Simple product = Check both Virtual and Downloadable
+		- Regular price: 14.99
+		- DOwnloadable file: add file
+			: NOTE: If your downloadable product is exceed the maximum space. Use Google drive or anything that you store your product.

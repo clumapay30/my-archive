@@ -1,0 +1,6 @@
+Add side bar
+
+	go to widgets
+		add filter price [Filter product by price]
+		add cart [Cart]
+		add featured product [Products]

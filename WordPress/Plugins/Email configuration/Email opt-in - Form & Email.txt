@@ -1,0 +1,28 @@
+How you capture those subscribers and how you send email to them.
+
+MailPoet / Settings
+	: Sign-up confirmation
+		: Enable sign-up confirmation - Yes
+		: Fill out the form
+		: Save
+		
+Forms & Email
+	: When you have someone subscribes to you they are going to be added into the list.
+	
+Go to List MailPoet / List
+	: Change the name of the list relevant to your business or call it comments subscribers
+	: add new list for blog	/ 
+	
+	go to MailPoet / Forms
+		: Add new
+		: Drag & Drop
+		: Save
+		: Go to appearance / Widgets
+			- You will gonna see the MailPoet 3 form
+			- drag it to your sidebar
+			
+	go to MailPoet / Emails
+		: you can set up welcome email or newsletter
+		: drag & drop
+		: When youre done go to next "Final Step"
+		

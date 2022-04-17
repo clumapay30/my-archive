@@ -1,0 +1,21 @@
+Dashboard:
+	NOTE: Settings / General 
+		- BOTH URL should be HTTPS
+		
+	Permalinks:
+		- Make sure you select Post Name
+		
+	Theme : 
+		link: https://bloggdude.com/houzez
+		Price: $69
+		NOTE: whenever you purchase a theme there should be a purchase codes
+		You can buy theme here: https://themeforest.net/search/
+		
+	Podcast Theme: 
+		Roogan - Podcast Theme
+	
+	Plugins :
+		- Elementor
+		- Redux Framework
+		- Mailchimp for WP
+		- One Click Demo Import

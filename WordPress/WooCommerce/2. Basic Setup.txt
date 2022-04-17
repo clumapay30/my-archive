@@ -1,0 +1,24 @@
+Plugins: woocommerce
+	- by Automatic
+	- Install / Activate
+	
+Basic Setup: WooCommerce/Status/Tools/Create Default WooCommerce Pages:Create page
+	- you should receive this "All missing woocommerce pages successfully installed"
+	- go to pages/all pages and check if the basic pages has been added.
+	
+Store Setup : WooCommerce/Settings
+	General:
+		- make sure that everything is setup
+	General Options
+		:Selling location(s) :
+	Currency Options
+	
+			: WooCommerce/Product
+	Measurements
+		: weight unit: KG
+		: Dimensions unit: cm
+		NOTE: if you use pounds you should use in or mm
+		: Save
+		
+Appearance/Menus
+	Add shop to menu and save menu

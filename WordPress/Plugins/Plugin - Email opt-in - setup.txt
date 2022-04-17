@@ -1,0 +1,37 @@
+NOTE: we can also use mailchimp
+
+plugin: mailpoet
+	- MailPoet - emails and newsletters in wordpress
+	- by MailPoet
+	- 100k+ active installation
+	
+Configuration:
+	- Go to MailPoet on the Dashboard and settings
+		: Basic
+			- Default sender
+				: From - your name or brand name - contact@domain.com
+				: reply-to - your name or brand name - contact@domain.com
+			- Subscribe in comments
+				: uncheck for now
+				: Yes, add me to your mailing list
+			- Manage subscription page
+				: MailPoet Page
+			- stats notication
+				: yes
+				: - contact@domain.com
+			- New subscriber notication 
+				: yes for now
+				: - contact@domain.com / remove it when you have a lot of subscribers
+			- scroll up
+		: Go to Send with...
+			- Other
+				: configure
+					- Method : SMTP
+					- Sending Frequency : Recommended
+						: SMTP Hostname: 
+							- Go to domain.com/cpanel
+									: go to Email Accounts
+									: click check email on the business email
+									: scroll down to Mail Client Manual Setting
+									: fill out the wordpress with the informail
+									: NOTE: Secure connection "SSL"

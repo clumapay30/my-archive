@@ -1,0 +1,19 @@
+$17-20 / month
+$204-240 / year
+
+1. Web hosting (bluehost)
+2. Page builder (Elementor)
+3. Autoresponder (Active Campaign)
+
+
+Plugin: Woocommerce
+		woocommerce stire payment gateway
+		authorize.net
+		nextmove lite
+		
+Theme
+	: Astra
+	
+Steps:
+	Step 1: Landing page
+	

@@ -1,0 +1,3 @@
+Customize/Woocommerce/single-product
+	: you can change the layout 
+	

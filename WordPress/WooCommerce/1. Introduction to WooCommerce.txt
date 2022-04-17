@@ -1,0 +1,7 @@
+WooCommerce:
+	- E-commerce Plugin
+	- 40%+ of Online Stores are WooCommerce
+	- Super Easy
+	- Sell Anything
+	- Complete Solution
+	

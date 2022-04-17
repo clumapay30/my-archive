@@ -1,0 +1,15 @@
+go to https://search.google.com/search-console/welcome
+
+You may see two options Domain and URL prefix
+
+continune with Domain option
+	- Copy the code 
+	- go to your domain provider
+	NOTE: it won't verify right away. its gonna take few minutes to few hours so be patient
+	- once it is verified go back to wordpress 
+	- SEO Genaral / General - Yoast SEO
+		: Notification
+			- Connect with google search console here.
+	- Search console
+		- save profile
+	- save profile

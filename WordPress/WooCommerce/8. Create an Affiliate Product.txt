@@ -1,0 +1,13 @@
+Add new product
+	: Title - Premium Hosting 
+	: Add description
+	
+	Product Data - External/Affiliate Product
+		Product URL : Your affiliate Link
+		Add price: Optional
+		
+	Inventory:
+		SKU - A101
+		
+		
+	NOTE: Whether you add short or long description try add desclaimer that says this is an affiliate product

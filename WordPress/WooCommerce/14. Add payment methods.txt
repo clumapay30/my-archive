@@ -1,0 +1,12 @@
+WooCommerce / Settings / Payments
+
+Set up Paypal
+	: Enable PayPal Standard
+	: PayPal email: your paypal email account "clumapay30@gmail.com"
+	: Receiver email : payments@email.com
+	: Invoice prefix - leave as default but if you are using this paypal for multiple business you should enter different prefix.
+	: other options leave as default
+
+signup for business account on paypal
+
+Once done. You are good to go. YOu have a shop that ups and running

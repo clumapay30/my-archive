@@ -1,0 +1,10 @@
+Plugin: forminator
+
+3 Steps
+1. Install this plugin
+2. Create a form and add fields to the form
+3. Display the form using page builder or using short code
+
+
+step 1:
+	

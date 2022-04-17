@@ -1,0 +1,19 @@
+This is for 1 product but different variations or sizes purchase.
+
+Add new product
+	Title: External Hard Drive
+	
+	Product Data - Grouped product
+
+---
+	Then add new products
+		Title: 1TB External Hard Drive
+		
+		Product data - simple product
+			General 
+				Price: $50
+		Before you publish, change the catalog to hidden, so that it show up in your shop list.
+		
+Once youre done creating new product go back to group product you have created
+	Linked Products:
+		Groupd Products: Search the product title you have created and add them.

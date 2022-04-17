@@ -1,0 +1,18 @@
+Google Analytics
+	- Link : https://analytics.google.com/analytics/web/#/
+
+Why use google analytics?
+	- Can Provide Actionable Insights
+	- Effective Dashboard
+	- Multiple Trackings
+	- User-friendly
+
+Plugin: google analytics
+		- Google Analytics Dashboard Plugin for wordpress by Monsterinsights
+		- 2+ million active installations
+		
+		google analytics settings / Insights
+			- Connect MonsterInsights
+			
+			
+	

@@ -1,0 +1,17 @@
+- Don't Risk Your Business
+- Mistakes Can Happens
+
+Backup Plugins
+	- Automatic Backup
+	- Restore plugin
+	- Cloud Option
+		: If there is cloud option it is going to save on the server
+		
+Plugin: Updraftplus
+		: A back up plugin
+		: UpdraftPlus WordPress Backup Plugins
+			- Go to settings then settings again
+			: Files backup Schedule
+			: Pick Google Drive
+			
+	

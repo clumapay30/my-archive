@@ -1,0 +1,14 @@
+Why you need to optimize or compress your images?
+	: When you starting to have a lot of images in your website its going to start slowing your websites
+	
+Plugin: smush
+	- Smush image sompression and optimization
+	- by WPMU DEV
+	- 1+ million active
+	
+Configuration
+	: Go to dashboard and move down to smush
+		- NOTE: when you install this plugin its already working so whenever you intall a new image its going to compress the image and optimize.
+
+	
+	

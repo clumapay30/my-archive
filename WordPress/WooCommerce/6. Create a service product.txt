@@ -1,0 +1,19 @@
+Add new product
+	: Add title
+	: add description
+	
+	Product Data - Simple Product = Virtual
+		: General 
+			: Price - 199
+			: sale - 149
+		: Inventory 
+			: SKU - C101
+		: Advanced
+			: Purchase note
+			: Menu order
+	
+	Add product image
+		
+		
+Or you can choose Variable product option
+	then you can set the virtual option on the variations

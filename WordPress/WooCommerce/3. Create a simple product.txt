@@ -1,0 +1,29 @@
+Products/Add New
+	- Product Name: Gaming Mouse
+		: Publish
+		: Double-check your website
+	- Product Description or Long Description:
+		: Update
+	- Skip Yoast SEO and OceanWP Settings for now
+	- Product Data
+		: Simple Product
+			- General
+				: Regular Price ($): 24.99
+				: Sale Price ($): 21.99
+				: Update/Publish and double-check
+				NOTE: you can also schedule the sale
+			- Inventory
+				: SKU - MU101 = NOTE: Use SKU that other sellers are using as well for SEO purposes.
+				: Manage Stock? - Check
+				: Stock quality - 10
+				: Allow backorders? - Means you allow customer to order even though there is no stock
+				: Low stock threshold - Means you will get notified when you have low on stock
+				: Sold individually - uncheck
+			- Shipping
+				: Weight(kg) - weight of the product
+			- Linked Products/Add
+				: Upsells
+					- explain later on 
+				: Cross-sells
+					- explain later on 
+					

@@ -1,0 +1,10 @@
+Plugin: cartflows
+	- by Cartflows Inc
+	
+Import A design for the checkout page
+	- Cartflows/Flows
+	
+Edit the content
+	- 
+	
+Edit field
