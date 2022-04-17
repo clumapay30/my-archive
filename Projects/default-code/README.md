@@ -1,0 +1,2 @@
+# JavaScript Default Code
+

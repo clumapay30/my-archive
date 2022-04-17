@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    background-color: #ffb4a2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    height: 100vh;
+    margin: 0;
+}
+
+.bg {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    height: 100vh;
+    margin: 0;
+}
+
+.loading-text {
+    position: absolute;
+    font-size: 50px;
+    color: #fff;
+}
+
+.todo-h2 {
+    font-size: 102px;
+    font-weight: 500;
+}
+
+.todo-input {
+    height: 42px;
+    width: 500px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.todo-input:focus {
+    border: 1px solid #fff;
+}
+
+.todo-board {
+    margin: 25px 0;
+    background-color: #6d6875;
+    width: 500px;
+    border-radius: 3px;
+}
+
+.todo-output {
+    padding: 10px;
+    border-bottom: 1px solid #4e4c50;
+    cursor: pointer;
+    list-style: none;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+.bg-2 {
+    display: none;
+}
