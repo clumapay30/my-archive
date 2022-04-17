@@ -1,0 +1,84 @@
+> git config user.email
+
+> git --v 
+		: version of git
+
+> git status 
+		: give you the status of current repo
+
+> git init 
+		: initialize git repo
+
+> git log 
+		: log of the commits of the givin repository
+		: "git log --oneline" is a short hand of --pretty=oneline
+
+> git diff
+		: git diff --staged
+		: git diff --cached
+		: git diff HEAD style/main.css
+
+
+/* Commit: Staging or Pattern */
+> git add 
+		: to add specific files to the staging area. Separate files with spaces to add mutiple at once.
+		: "git add ."
+		: this will add all the file that's been modified
+		
+> git commit -m "message here"
+		:We use the "git commit" command to actually commit changes from the staging area.
+		: git commit -m "my message"
+		: git commit --amend
+
+> git commit -a -m "this will add and make new message in one line"
+		
+/ * .gitignore default */
+https://www.toptal.com/developers/gitignore
+
+
+
+/* Branches */
+> git branch
+	: show you the list branch
+
+> git branch testName
+	: create a new branch
+	
+> git switch testName
+	: switch between branches
+	
+> git checkout testName
+	: Also switch
+
+> git switch -c testName
+	: this will create new branch and switch to that branch at the same time.
+	
+> git branch -d testName
+	: delete branch
+> git branch -D testName
+	: this will delete the branch by force
+	
+> git branch -m newTestName
+	: This will rename the branch name
+	
+
+/* Merge */
+
+> git merge testName
+	: Fast-forward merge
+	
+/* Stash */
+
+> git stash
+	: to store recent changes into stash
+	
+> git stash pop
+	: to remove the most recently stashed changes in your stash and re-apply them to your working copy.
+	
+
+/* Undoing Changes & Time traveling */
+
+> git checkout d8194d7
+	: We can use git checkout commit <commit-hash> to view a previous commit.
+	: > switch branch master - This will re-attach the Detached Head
+	: create a new branch if you want to make some changes

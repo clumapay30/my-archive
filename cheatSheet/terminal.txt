@@ -1,0 +1,26 @@
+on Mac
+"open ." - open the folder of the current location.
+
+on Windows
+"start" - open the folder of the current location.
+
+Basic
+"ls" - short for list or list the content of the current location.
+"pwd" - print the working directory
+"cd" - Change directory. This is how we move around.
+"cd .." - Move backward
+
+File delete and creation
+"touch test.txt" - create a file 
+"rm test.txt" - delete a file
+
+Folder create and delete
+"mkdir test" - create a folder
+"rm test" - delete a folder
+
+variation
+-rf
+	rm -rf test "r" means recursive and "f" is force
+	: Basically this how you delete a folder
+-a
+	"ls -a" - going to show you hidden files
