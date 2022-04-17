@@ -1,0 +1,1 @@
+npm i axios react-chartjs-2 react-countup

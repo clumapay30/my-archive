@@ -1,0 +1,29 @@
+Web development road map
+
+Step 1: What is web development?
+	- Learn how website work
+	- Learn the difference front-end and back-end operate/work.
+	- Code editor
+	   
+Step 2: Basic fron-end
+	- Learn HTML
+	- Learn CSS
+	- Learn Javascript
+	
+Step 3: Tools
+	- Package managers
+	- Build tools
+	- Version control
+	
+Step 4-A: Additional front-end
+	- Sass
+	- Responsive design
+	- Javascript frameworks
+	
+Step 4-B: Basic back-end
+	- server
+	- programming languaage
+	- database
+	   
+
+	

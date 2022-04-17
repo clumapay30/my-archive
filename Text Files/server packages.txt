@@ -1,0 +1,13 @@
+SERVER PACKAGES
+	: nodemailer
+	: jsonwebtoken
+	: bcryptjs
+	: validator
+	: cookie-parser
+	: body-parser
+	: dotenv 
+	: mongoose
+	: express
+	
+- npm i bcryptjs jsonwebtoken validator nodemailer cookie-parser body-parser
+- npm i dotenv mongoose express

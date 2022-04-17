@@ -1,0 +1,45 @@
+NOTE: Being slow is fast so take your time!
+
+1. JavaScript
+	- Master data structure and algorithm
+	
+2. Learn React
+
+3. Learn state management
+	- REDUX
+	- Context
+	
+4. Version Control
+	- Git / Github
+	
+5. Back-end
+	- Node
+	
+6. Database
+	- MySQL
+	- mongoDB
+	- Firebase
+	
+------------------------
+Month 1-2
+	Fundamentals & Data-structures
+	Algorithms & Problem solving
+
+Month 3
+	Frontend
+		- JavaScript
+		- ReactJS
+		- Redux
+		
+Month 4
+	Backend
+		- MongoDB
+		- MySQL
+		- Express
+		
+Month 5-6
+	PROJECTS
+	Practicing interviews
+	
+-------
+Build real-world project like Amazon, Airbnb, and Hulu from scratch that are mobile responsive
