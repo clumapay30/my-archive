@@ -1,0 +1,42 @@
+const arr = [7, 9, 3, 4, 5, 1, -7, 10, 9, 4];
+const objArr = [{n: 1}, {n: 2}, {n: 4}];
+
+const o = objArr[1];
+
+console.log(arr.lastIndexOf(4))
+console.log(objArr.indexOf(0))
+
+-----------------
+console.log(arr.includes(4)) // return true or false
+
+-----------------
+if you want to item itselft use the find method
+
+console.log(objArr.find(o => o.n === 1))
+
+-----------------
+findIndex
+
+console.log(objArr.findIndex(o => o.n === 2)) // 1
+
+-----------------
+filter if you want to find all the matching items
+
+console.log(arr.filter(n => n >= 4))
+
+
+-----------------
+some method
+
+let evenSum = 0;
+
+arr.some(n => {
+  const quit = n < 0;
+  
+  if(n % 2 === 0) {
+    evenSum +=n;
+  }
+  return quit;
+})
+
+console.log(evenSum)

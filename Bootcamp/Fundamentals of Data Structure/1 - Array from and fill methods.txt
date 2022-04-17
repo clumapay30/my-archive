@@ -1,0 +1,15 @@
+Array from and fill methods - create sized array dynamically
+
+2 ways to create an array 
+
+let arr = new Array(6,1,2,3)
+let arr2 = [6,1,2,3]
+
+console.log(arr)
+console.log(arr2)
+
+--------------------------------
+
+let arr = Array.from({length: 100}, (_, i) => i+50)
+
+console.log(arr)

@@ -1,0 +1,6 @@
+Array iterators keys and values - access and iterate array items
+
+const nameArr = ['John', 'Paul', 'August'];
+
+console.log(Array.from(nameArr.entries()))
+console.log(Array.from(nameArr.values()))

@@ -1,0 +1,22 @@
+Array toString, toLocaleString and join methods - transform array into string
+
+----------------
+const arr = [1,2,3,4,5,6,7,8,9];
+
+console.log(arr.toString())
+console.log(arr.join(' '))
+
+console.log(
+  'List of number', arr.join(', ')
+)
+
+-----------------
+
+const priceArr = [9.99, 12.50, 8, 10000];
+
+console.log(
+  priceArr.toLocaleString('en-US', {
+    style: 'currency',
+    currency: 'php'
+  })
+)

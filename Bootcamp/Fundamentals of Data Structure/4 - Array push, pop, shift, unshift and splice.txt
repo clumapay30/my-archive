@@ -1,0 +1,15 @@
+Array push, pop, shift, unshift and splice - add and remove items from any position
+
+
+
+const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+arr.push(2); //add item to the last element
+arr.unshift(1); // add item to the beginning
+
+arr.shift(); // remove item from the beginning
+arr.pop(); // remove item from the last element
+
+arr.splice(4); // remove the index 4 element
+
+arr.splice(4, 1); // if you add second parameter it will indicate how many index that will remove
