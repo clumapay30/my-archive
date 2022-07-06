@@ -1,6 +1,6 @@
-## **My Personal Archive**
+## **My Archive**
 
-__This repo contains all my personal files during the learning process :)__
+__This repo contains all my files during the learning process :)__
 
 __List of my Branch :)__
 - __Bootcamp__ - All courses I have studied online.
@@ -21,9 +21,9 @@ __
 | ------ | ----------- |
 | **JavaScript** | JS is my first language of choice:wink:|
 | **NODE JS**  | My first back-end language |
-| **Php**  | For **WordPress**|
+| **Php**  | For **WordPress** and backend language |
 | **MySQL**  | For my CRM projects |
-| **Python**  | For Machine Learning |
+| **Python**  | For Machine Learning and backend language |
 | **Computer vision engineer**  | For Machine Learning  |
 
 Follow me on **[Linkedin](https://www.linkedin.com/in/christian-virtual-assistant/)**.
