@@ -10,9 +10,7 @@ __List of my Branch :)__
 - __textFiles__ - For my google drive folders
 - __WordPress__ - For my WordPress testing on my local machine
 
-__Please NOTE :)__ This repo is not useful to you! one of the reasons I created this is to easily go back in the future if I am on a different computer.
-
-I did not create a new repo for each of my projects to minimize my repo counts and to avoid stress!. 
+__Please NOTE :)__ This repo is not useful to you! one of the reasons I created this is to easily go back to my code or if I am on a different pc.
 
 __
 
@@ -25,7 +23,7 @@ __
 | **NODE JS**  | My first back-end language |
 | **Php**  | For **WordPress**|
 | **MySQL**  | For my CRM projects |
-
-I will update this list once I achieve this in the future...for now, it's just a dream :wink:
+| **Python**  | For Machine Learning |
+| **Computer vision engineer**  | For Machine Learning  |
 
 Follow me on **[Linkedin](https://www.linkedin.com/in/christian-virtual-assistant/)**.
